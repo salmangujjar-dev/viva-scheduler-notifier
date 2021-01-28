@@ -72,7 +72,7 @@ elseif(isset($_SESSION["supervisor"])){
 		<div class="card">
 			<div class="card-header">
 				<h1>Sign In</h1><br>
-				<h1 style='font-size:15px;'><u>18F0418, 18F0373</u></h1>
+				<h1 style='font-size:15px;'><u>github.com/salmangujjar</u></h1>
 				<div class="d-flex justify-content-end social_icon">
 					<span><i class="fab fa-facebook-square"></i></span>
 					<span><i class="fab fa-google-plus-square"></i></span>
