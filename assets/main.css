@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/bg.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height:100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+h1{
+    font-family: 'Kaushan Script', cursive;
+    color:white;
+    text-align:center;
+}
+
+.card{
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(46,49,49,0.7) !important;
+}
+
+.login_btn{
+color: white;
+font-weight: bold;
+background-color: #FFC312;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+.exit_icon span{
+    font-size: 60px;
+    color: #FFC312;
+    }
+    
+    .exit_icon span:hover{
+    color: white;
+    cursor: pointer;
+    }
+    
+    .exit_icon{
+    position: absolute;
+    right: 20px;
+    }
+    
+  a{
+    text-decoration: none;
+    color: #FFC312;
+  }
