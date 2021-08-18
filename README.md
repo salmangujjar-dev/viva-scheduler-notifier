@@ -10,9 +10,11 @@ PHP
 <b>Frameworks:</b><br>
 Bootstrap 4
 
-<b>Aim of the Project:</b>
-Automatically Nearest Viva Station selector in terms of selected study center.
-Viva Notifier via email id.
+<b>Aim of the Project:</b><br>
+<ul>
+<li>Automatically Nearest Viva Station selector in terms of selected study center.
+<li>Viva Notifier via email id.
+</ul>
 
 <b><em>*Note*</em></b>
 <b>Things you need to Edit:</b>
