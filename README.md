@@ -16,11 +16,13 @@ Bootstrap 4
 <li>Viva Notifier via email id.
 </ul>
 
-<b><em>*Note*</em></b>
-<b>Things you need to Edit:</b>
-1.Edit connection.php according to your database credentials.
+<b><em>*Note*</em></b><br>
+<b>Things you need to Edit:</b><br>
+<ol Type='1'>
+<li>Edit connection.php according to your database credentials.
 <br>
-2. Open notify.php and search for these three and edit it accordingly
-$mail->Username = '*Your Email Id*'; // email
-$mail->Password = '*Your Password*'; // password
+<li>Open notify.php and search for these three and edit it accordingly<br>
+$mail->Username = '*Your Email Id*'; // email<br>
+$mail->Password = '*Your Password*'; // password<br>
 $mail->setFrom('*From Email*', '*Title*'); // From email and name
+ </ol>
