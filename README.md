@@ -3,7 +3,7 @@
 This Project is an open-source for learning purpose.
 
 Programming Languages:
-HTML / CSS
+HTML / CSS<br>
 Javascript / JQuery
 PHP
 
